@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Task Schedular</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menumain_title">Add Task</string>
+    <string name="menumain_showDuration">Durations Report</string>
+    <string name="menumain_showAbout">About TaskTimer</string>
+    <string name="menumain_generate">Generate Data</string>
+    <string name="no_task_message">No Task Selected</string>
+    <string name="edit_button_description">Button to Edit Task details.</string>
+    <string name="delete_button_desciption">Button to delete Task.</string>
+    <string name="addedit_name_hint">Task Name</string>
+    <string name="addedit_description_hint">Desciption</string>
+    <string name="addedit_sortorder_hint">Sort Order</string>
+    <string name="addedit_save_button">Save</string>
+    <string name="title_activity_add_edit">AddEditActivity</string>
+    <string name="insructions_heading">Instructions</string>
+    <string name="instruction">Use the add button (+) in the toolbar above to create new tasks.  Tasks with lower sort orders will be placed higher up the list.Tasks with same sort order will be sorted alphabetically.  Tapping a task will start the timer for that task (and will stop the timer for any previous task that was being timed).  Each task has Edit and Delete buttons if you want to change the details or remove the tasks.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="deldialog_positive_caption">Delete</string>
+    <string name="deldialog_message">Deleting will also delete all timing data associated with task id %1$d: %2$s.</string>
+    <string name="cancelEditingDiag_message">You have unsaved changes. Do you want to abandoned or continue editing?</string>
+    <string name="cancelEditingDiag_positive_caption">Continue Editing.</string>
+    <string name="cancelEditingDiag_negative_caption">Abandon changes</string>
+    <string name="about_copyright">Copyright \u00a9 2020 eyeV.com</string>
+    <string name="about_web">Instructions available at </string>
+    <string name="about_web_url"><u>www.learnprogramming.com</u></string>
+    <string name="about_weblink_21">Instructions available at www.learnprogramming.academy</string>
+    <string name="about_email">For support, email aayushchaudhary@gmail.com</string>
+    <string name="about_credits">Icon derived from <b>analog clock</b> at openclipart.org by <b>Anonymous</b></string>
+    <string name="current_timing_text">Timing %1$s</string>
+    <string name="td_text_name">Task Name</string>
+    <string name="td_text_date">Date</string>
+    <string name="td_text_duration">Duration</string>
+    <string name="td_text_description">Description</string>
+    <string name="title_activity_duration_report">DurationReport</string>
+    <string name="rm_title_filter_day">Show day</string>
+    <string name="rm_title_filter_week">Show week</string>
+    <string name="rm_title_filter_date">Show report date</string>
+    <string name="rm_title_delete">Delete old timings</string>
+    <string name="date_filter">Select date for report</string>
+    <string name="date_delete">Select date to delete up to</string>
+    <string name="delete_message">Are you sure you want to delete all timings before %1s ?</string>
+
+</resources>
